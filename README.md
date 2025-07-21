@@ -5,9 +5,10 @@ En este repositorio se comparten los distintos entregables que se desarrollado a
   <img src="https://cdn.prod.website-files.com/633b44aa19e0eb425d7e8c7f/63724d646ecb4bd4cbdf7440_LOGO%20NUCLIO%20DIGITAL%20SCHOOL-01-01.png" alt="Nuclio Digital School" width="220">
 </div>
 
+
 | Carpeta | Descripción    | Código    | Datos    | Entregado    |
 |:----------|:----------:|:----------: |:----------: |----------: |
-| [Entregable 1](/Entregable_1)     | XXX      | [XXX](/Entregable_1/Code)      | [XXX](/Entregable_1/Code)      | :white_check_mark:      |
+| [Entregable 1](/Entregable_1)     | XXX      | [XXX](/Entregable_1/Code)      | [XXX](/Entregable_1/Sources)      | :white_check_mark:      |
 | [Entregable 2](/Entregable_2)     | XXX      | XXX      | XXX      | :white_check_mark:       |
 | [Entregable 3](/Entregable_3)     | XXX      | XXX      | XXX      | :white_check_mark:        |
 | [Entregable 4](/Entregable_4)     | XXX      | XXX      | XXX      | :white_check_mark:        |
