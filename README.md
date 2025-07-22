@@ -13,7 +13,6 @@ En este repositorio se comparten los distintos entregables que se desarrollado a
 | [Entregable 3](/Entregable_3)     | XXX      | XXX      | XXX      | :white_check_mark:        |
 | [Entregable 4](/Entregable_4)     | XXX      | XXX      | XXX      | :white_check_mark:        |
 | [Entregable 5](/Entregable_5)     | XXX      | XXX      | XXX      | :white_check_mark:        |
-| [Entregable 6](/Entregable_6)     | XXX      | XXX      | XXX      | :white_check_mark:        |
 | [DTale viewer](/dtale_viewer)     | Visor de df      | XXX      | XXX      | :x:      |
 
 ## Software
