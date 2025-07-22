@@ -8,7 +8,7 @@ En este repositorio se comparten los distintos entregables que se desarrollado a
 
 | Carpeta | Descripción    | Código    | Datos    | Entregado    |
 |:----------|:----------:|:----------: |:----------: |----------: |
-| [Entregable 1](/Entregable_1)     | XXX      | [XXX](/Entregable_1/Code)      | [XXX](/Entregable_1/Sources)      | :white_check_mark:      |
+| [Entregable 1](/Entregable_1)     | XXX      | [XXX](/Entregable_1/Code "Link a la carpeta del código")      | [XXX](/Entregable_1/Sources "Link a los datos")      | :white_check_mark:      |
 | [Entregable 2](/Entregable_2)     | XXX      | XXX      | XXX      | :white_check_mark:       |
 | [Entregable 3](/Entregable_3)     | XXX      | XXX      | XXX      | :white_check_mark:        |
 | [Entregable 4](/Entregable_4)     | XXX      | XXX      | XXX      | :white_check_mark:        |
@@ -16,7 +16,8 @@ En este repositorio se comparten los distintos entregables que se desarrollado a
 | [DTale viewer](/dtale_viewer)     | Visor de df      | XXX      | XXX      | :x:      |
 
 ## Software
-- Python - [Download](https://www.python.org/downloads/)
+- Python - [Download](https://www.python.org/downloads/ "Descargar Python")
 
-
+<br></br>
+<br></br>
 [[Go to top]](#entregables-nuclio)
